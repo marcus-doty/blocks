@@ -1,0 +1,21 @@
+h1  {
+    background-color: black;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: cyan;
+}
+h2  {
+    background-color:rebeccapurple;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+h3 {
+    background-color: rgb(112, 162, 220);
+    text-align: right;
+    color: rgb(53, 2, 54);
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
